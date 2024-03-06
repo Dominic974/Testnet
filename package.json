@@ -1,5 +1,5 @@
 {
-    "name": "Tea-testnet-V2",
+    "name": "Testnet",
     "version": "1.0.0",
     "description": "An interacting with Ethereum blockchain with Dominic974",
     "main": "index.js",
